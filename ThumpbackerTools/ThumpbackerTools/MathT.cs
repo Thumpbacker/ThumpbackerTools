@@ -163,10 +163,14 @@ namespace ThumpbackerTools.Math
 
             int i = 0;
             int savedValue = modeDictionary.FirstOrDefault().Value;
+
+            //Search for the most common numbers
             foreach (var modeDict in modeDictionary)
             {
                 if(i > 0)
                 {
+                    //If the mode count is greater then the saved value then clear the list
+                    //Else if the mode coun is equal add it
                     if(modeDict.Value > savedValue)
                     {
                         returnList.Clear();
@@ -210,6 +214,146 @@ namespace ThumpbackerTools.Math
             //return the sum divided by 2
 
             return sum / intList.Count;
+        }
+
+        /// <summary>
+        /// Finds the mean
+        /// </summary>
+        /// <param name="intArray"></param>
+        /// <returns></returns>
+        public float Mean(int[] intArray)
+        {
+            float sum = 0;
+
+            //Get the sum of all the numbers
+            for (int i = 0; i < intArray.Length; i++)
+            {
+                sum += intArray[i];
+            }
+
+            //return the sum divided by 2
+
+            return sum / intArray.Length;
+        }
+
+        /// <summary>
+        /// Finds the mean of floats
+        /// </summary>
+        /// <param name="intList"></param>
+        /// <returns></returns>
+        public float Mean(List<float> floatList)
+        {
+            float sum = 0;
+
+            //Get the sum of all the numbers
+            for (int i = 0; i < floatList.Count; i++)
+            {
+                sum += floatList[i];
+            }
+
+            //return the sum divided by 2
+
+            return sum / floatList.Count;
+        }
+
+        /// <summary>
+        /// Finds the mean of floats
+        /// </summary>
+        /// <param name="intArray"></param>
+        /// <returns></returns>
+        public float Mean(float[] floatArray)
+        {
+            float sum = 0;
+
+            //Get the sum of all the numbers
+            for (int i = 0; i < floatArray.Length; i++)
+            {
+                sum += floatArray[i];
+            }
+
+            //return the sum divided by 2
+
+            return sum / floatArray.Length;
+        }
+
+        /// <summary>
+        /// Finds the mean of decimals
+        /// </summary>
+        /// <param name="intList"></param>
+        /// <returns></returns>
+        public decimal Mean(List<decimal> decimalList)
+        {
+            decimal sum = 0;
+
+            //Get the sum of all the numbers
+            for (int i = 0; i < decimalList.Count; i++)
+            {
+                sum += decimalList[i];
+            }
+
+            //return the sum divided by 2
+
+            return sum / decimalList.Count;
+        }
+
+        /// <summary>
+        /// Finds the mean of decimals
+        /// </summary>
+        /// <param name="intArray"></param>
+        /// <returns></returns>
+        public decimal Mean(decimal[] decimalArray)
+        {
+            decimal sum = 0;
+
+            //Get the sum of all the numbers
+            for (int i = 0; i < decimalArray.Length; i++)
+            {
+                sum += decimalArray[i];
+            }
+
+            //return the sum divided by 2
+
+            return sum / decimalArray.Length;
+        }
+
+        /// <summary>
+        /// Finds the mean of doubles
+        /// </summary>
+        /// <param name="intList"></param>
+        /// <returns></returns>
+        public double Mean(List<double> doubleList)
+        {
+            double sum = 0;
+
+            //Get the sum of all the numbers
+            for (int i = 0; i < doubleList.Count; i++)
+            {
+                sum += doubleList[i];
+            }
+
+            //return the sum divided by 2
+
+            return sum / doubleList.Count;
+        }
+
+        /// <summary>
+        /// Finds the mean of doubles
+        /// </summary>
+        /// <param name="intArray"></param>
+        /// <returns></returns>
+        public double Mean(double[] doubleArray)
+        {
+            double sum = 0;
+
+            //Get the sum of all the numbers
+            for (int i = 0; i < doubleArray.Length; i++)
+            {
+                sum += doubleArray[i];
+            }
+
+            //return the sum divided by 2
+
+            return sum / doubleArray.Length;
         }
     }
 }
