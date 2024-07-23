@@ -1,0 +1,9 @@
+C:\Users\Creep\OneDrive\Documents\GitHub\ThumpbackerTools\ThumpbackerTools\ThumpbackerTools\bin\Debug\netstandard2.0\ThumpbackerTools.deps.json
+C:\Users\Creep\OneDrive\Documents\GitHub\ThumpbackerTools\ThumpbackerTools\ThumpbackerTools\bin\Debug\netstandard2.0\ThumpbackerTools.dll
+C:\Users\Creep\OneDrive\Documents\GitHub\ThumpbackerTools\ThumpbackerTools\ThumpbackerTools\bin\Debug\netstandard2.0\ThumpbackerTools.pdb
+C:\Users\Creep\OneDrive\Documents\GitHub\ThumpbackerTools\ThumpbackerTools\ThumpbackerTools\obj\Debug\netstandard2.0\ThumpbackerTools.csprojAssemblyReference.cache
+C:\Users\Creep\OneDrive\Documents\GitHub\ThumpbackerTools\ThumpbackerTools\ThumpbackerTools\obj\Debug\netstandard2.0\ThumpbackerTools.AssemblyInfoInputs.cache
+C:\Users\Creep\OneDrive\Documents\GitHub\ThumpbackerTools\ThumpbackerTools\ThumpbackerTools\obj\Debug\netstandard2.0\ThumpbackerTools.AssemblyInfo.cs
+C:\Users\Creep\OneDrive\Documents\GitHub\ThumpbackerTools\ThumpbackerTools\ThumpbackerTools\obj\Debug\netstandard2.0\ThumpbackerTools.csproj.CoreCompileInputs.cache
+C:\Users\Creep\OneDrive\Documents\GitHub\ThumpbackerTools\ThumpbackerTools\ThumpbackerTools\obj\Debug\netstandard2.0\ThumpbackerTools.dll
+C:\Users\Creep\OneDrive\Documents\GitHub\ThumpbackerTools\ThumpbackerTools\ThumpbackerTools\obj\Debug\netstandard2.0\ThumpbackerTools.pdb

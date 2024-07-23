@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PRtktFSThRQUkhi08sZ5qSbF3b8qgfTi0fA5JCMxziKgkga+DQNy3otMFYp9Bomv9V/hE154A2SZp2/CdeK1jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Creep\\OneDrive\\Documents\\GitHub\\ThumpbackerTools\\ThumpbackerTools\\ThumpbackerTools\\ThumpbackerTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Creep\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Creep\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThumpbackerTools", "ThumpbackerTools\ThumpbackerTools.csproj", "{A1942C85-40AD-4A20-9D70-EEEDFB238482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThumpbackerTests", "ThumpbackerTests\ThumpbackerTests.csproj", "{A4861DE9-9D09-4D3F-BFD5-325E0843197B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1942C85-40AD-4A20-9D70-EEEDFB238482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1942C85-40AD-4A20-9D70-EEEDFB238482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1942C85-40AD-4A20-9D70-EEEDFB238482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1942C85-40AD-4A20-9D70-EEEDFB238482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4861DE9-9D09-4D3F-BFD5-325E0843197B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4861DE9-9D09-4D3F-BFD5-325E0843197B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4861DE9-9D09-4D3F-BFD5-325E0843197B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4861DE9-9D09-4D3F-BFD5-325E0843197B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96971005-9043-4141-A27D-8A5D3768FC90}
+	EndGlobalSection
+EndGlobal
